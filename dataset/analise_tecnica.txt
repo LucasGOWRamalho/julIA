@@ -1,0 +1,5 @@
+"A análise técnica é a metodologia que utiliza gráficos e indicadores para prever os movimentos futuros de preços."
+"O RSI (Índice de Força Relativa) é um indicador de análise técnica usado para identificar condições de sobrecompra ou sobrevenda."
+"Médias móveis são utilizadas para suavizar os preços e ajudar a identificar a tendência do mercado."
+"Suporte é o nível de preço onde a demanda é forte o suficiente para evitar que o preço caia mais."
+"Resistência é o nível de preço onde a oferta é forte o suficiente para evitar que o preço suba mais."

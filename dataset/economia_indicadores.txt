@@ -1,0 +1,5 @@
+"O PIB (Produto Interno Bruto) é a soma de todos os bens e serviços produzidos em um país."
+"A taxa de juros é definida pelo Banco Central e impacta diretamente o custo do crédito e o consumo da população."
+"A inflação é o aumento geral nos preços de bens e serviços, o que pode reduzir o poder de compra."
+"A taxa de desemprego é um indicador que mostra a porcentagem da força de trabalho que está sem emprego."
+"Os índices econômicos como o Índice de Preços ao Consumidor (IPC) ajudam a monitorar a inflação e o crescimento econômico."
