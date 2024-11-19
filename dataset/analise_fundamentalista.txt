@@ -3,3 +3,4 @@
 "O índice P/VPA (Preço sobre Valor Patrimonial por Ação) compara o preço da ação com o valor patrimonial da empresa."
 "A margem de lucro de uma empresa indica a porcentagem do lucro que ela gera em relação às suas vendas."
 "Investidores que seguem a análise fundamentalista buscam empresas subvalorizadas no mercado."
+"Frases básicas"
